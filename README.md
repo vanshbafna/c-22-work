@@ -1,2 +1,2 @@
-# c-22-work
-c-22 class work
+# staticSquare
+A static square made using Matter.js physics engine
